@@ -6,7 +6,7 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/cantavc/',
+  base: '/',
   build: {
     assetsDir: 'assets',
     rollupOptions: {
